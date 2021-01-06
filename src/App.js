@@ -20,8 +20,8 @@ class App extends React.Component {
       title: 'hi',
       headerLinks: [
         { title: 'Home', path: '/site' },
-        { title: 'About', path: '/about' },
-        { title: 'Contact', path: '/contact' }
+        { title: 'About', path: '/site/about' },
+        { title: 'Contact', path: '/site/contact' }
       ],
       home: {
         title: 'Hello.',
@@ -48,9 +48,9 @@ class App extends React.Component {
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
               <Nav className="ml-auto">
-                <Link className="nav-link" to="/personalwebsite">Home</Link>
-                <Link className="nav-link" to="/about">About</Link>
-                <Link className="nav-link" to="/contact">Contact</Link>
+                <Link className="nav-link" to="/site">Home</Link>
+                <Link className="nav-link" to="/site/about">About</Link>
+                <Link className="nav-link" to="/site/contact">Contact</Link>
               </Nav>
             </Navbar.Collapse>
           </Navbar>
