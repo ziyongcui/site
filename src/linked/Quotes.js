@@ -2,12 +2,14 @@ import React from 'react';
 import Hero from '../components/Hero';
 import Content from '../components/Content';
 import QuoteAndAuthor from '../components/QuoteAndAuthor';
-import quotes from '../QuoteDB'
+import quotes from '../QuoteDB';
+import books from '../assets/images/books.jpg';
 
 class Quotes extends React.Component {
     state = {
         quote: quotes[0].quote,
-        author: quotes[0].author
+        author: quotes[0].author,
+        img: quotes[0].img
     }
     //generate diffrent quote function
     generateRandomQuote = (arr) => {
@@ -19,7 +21,8 @@ class Quotes extends React.Component {
         //update state
         this.setState({
         quote: newQuote.quote,
-        author: newQuote.author
+        author: newQuote.author,
+        img: newQuote.img
         })
 
         this.shuffleQuotes(quotes)
@@ -52,6 +55,9 @@ class Quotes extends React.Component {
             <Hero title="Quotes" />
 
             <Content>
+                <center>
+                <img src={this.state.img} width="50%" alt="books"/>
+                </center>
             <QuoteAndAuthor
                 generateRandomQuote={this.generateRandomQuote}
                 quote={this.state}

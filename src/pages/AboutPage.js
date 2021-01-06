@@ -17,7 +17,9 @@ function AboutPage(props) {
 
             <p>Currently, I'm working on a collection of tutorials for the FunKey Freedom and FunKey Sensor, an Arduino product for STEM, science, invention, physical computing and coding. You can check out my progress <a href="" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
-            <p>When I'm not doing math or coding, I enjoy running, cycling, reading, and playing Shengji or Poker. I am also an avid fan of soccer (FC Barcelona), basketball (Boston Celtics), and football (New England Patriots). </p>
+            <p>When I'm not doing math or coding, I enjoy running, cycling, reading, and playing Shengji or Poker. I am also an avid fan of FC Barcelona, the Boston Celtics, and the New England Patriots. </p>
+
+            <p>I have compiled a collection of my favorite quotes from books I have enjoyed <a href="https://ziyongcui.github.io/site/quote" target="_blank" rel="noopener noreferrer">here</a>.</p>
             </Content>
         </div>
     );
