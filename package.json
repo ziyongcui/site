@@ -2,7 +2,7 @@
   "name": "portfolio-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ziyongcui.github.io/personalwebsite",
+  "homepage": "http://ziyongcui.github.io/site",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@sendgrid/mail": "^7.4.0",
