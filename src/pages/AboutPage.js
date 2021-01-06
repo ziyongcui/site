@@ -9,15 +9,15 @@ function AboutPage(props) {
             <Hero title={props.title} />
 
             <Content>
-            <p>Hello, my name is Garrett. I'm a full stack engineer with experience in Angular, AngularJS, Express JS, Node JS, Oracle SQL, MongoDB, and React.</p>
+            <p>Hello, my name is Ziyong. I'm a freshman at Harvard intending to concentrate in Mathematics and Computer Science.</p>
 
-            <p>My dream is to one day start my own business and become an entrepreneur (currently working on some ideas).</p>
+            <p>When I was younger, my dream was to become an astronaut. A few years later, I wanted to become a surgeon. At this moment, I'm not entirely sure what I want to do with my life. </p>
 
-            <p>I'm constantly learning new things. currently those things include gaining more experience with MongoDB, React, Express JS, and Node JS</p>
+            <p>I want to learn more about the intersectiom between theoretical mathematics and computer science. In particular, I'm interested in the application of probabilistic models to machine learning and artificial intelligence. </p>
 
-            <p>My latest project, Dev Grub, is a cookbook for developers. You can check it out <a href="https://devgrub.com" target="_blank" rel="noopener noreferrer">here</a>, or on the homepage. It is built with Angular, MongoDB, Express JS, and Node JS. However, I will be rebuilding it using React in the coming months</p>
+            <p>Currently, I'm working on a collection of tutorials for the FunKey Freedom and FunKey Sensor, an Arduino product for STEM, science, invention, physical computing and coding. You can check out my progress <a href="" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
-            <p>When I'm not learning something new chances are I'm creating some YouTube videos. You can find those <a href="http://www.youtube.com/c/GarrettLove1" target="_blank" rel="noopener noreferrer">here</a></p>
+            <p>When I'm not doing math or coding, I enjoy running, cycling, reading, and playing Shengji or Poker. I am also an avid fan of soccer (FC Barcelona), basketball (Boston Celtics), and football (New England Patriots). </p>
             </Content>
         </div>
     );
