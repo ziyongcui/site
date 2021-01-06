@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personalwebsite/static/css/main.a1b7b015.chunk.css",
+    "main.js": "/personalwebsite/static/js/main.1bfffc00.chunk.js",
+    "main.js.map": "/personalwebsite/static/js/main.1bfffc00.chunk.js.map",
+    "runtime~main.js": "/personalwebsite/static/js/runtime~main.29a1488c.js",
+    "runtime~main.js.map": "/personalwebsite/static/js/runtime~main.29a1488c.js.map",
+    "static/css/2.0f7943bd.chunk.css": "/personalwebsite/static/css/2.0f7943bd.chunk.css",
+    "static/js/2.4886caf9.chunk.js": "/personalwebsite/static/js/2.4886caf9.chunk.js",
+    "static/js/2.4886caf9.chunk.js.map": "/personalwebsite/static/js/2.4886caf9.chunk.js.map",
+    "index.html": "/personalwebsite/index.html",
+    "precache-manifest.93d9f5ec9de897a20b517bd7ec7d6157.js": "/personalwebsite/precache-manifest.93d9f5ec9de897a20b517bd7ec7d6157.js",
+    "service-worker.js": "/personalwebsite/service-worker.js",
+    "static/css/2.0f7943bd.chunk.css.map": "/personalwebsite/static/css/2.0f7943bd.chunk.css.map",
+    "static/css/main.a1b7b015.chunk.css.map": "/personalwebsite/static/css/main.a1b7b015.chunk.css.map",
+    "static/media/linkedinlogo.png": "/personalwebsite/static/media/linkedinlogo.b83af2e6.png",
+    "static/media/sunset1.png": "/personalwebsite/static/media/sunset1.7e05eea2.png",
+    "static/media/waterski.png": "/personalwebsite/static/media/waterski.379114c9.png",
+    "static/media/ziyong.jpg": "/personalwebsite/static/media/ziyong.12dc5eb9.jpg"
+  }
+}
