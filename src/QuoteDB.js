@@ -15,6 +15,7 @@ import tokillamockingbird from './bookim/tokillamockingbird.jpg';
 import VALIS from './bookim/VALIS.jpg';
 import wherethecrawdadssing from './bookim/wherethecrawdadssing.jpg';
 import wethedrowned from './bookim/wethedrowned.jpg';
+import thecallofthewild from './bookim/thecallofthewild.jpg';
 
 const quotes = [
     {
@@ -111,6 +112,11 @@ const quotes = [
         "quote": "You died in the end, but you fought first.",
         "author": "Carsten Jensen, We, the Drowned",
         "img": wethedrowned
+    },
+    {
+        "quote": "There is an ecstasy that marks the summit of life, and beyond which life cannot rise. And such is the paradox of living, this ecstasy comes when one is most alive, and it comes as a complete forgetfulness that one is alive.",
+        "author": "Jack London, The Call of the Wild",
+        "img": thecallofthewild
     }
 ]
 

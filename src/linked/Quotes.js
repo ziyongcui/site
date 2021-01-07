@@ -39,6 +39,9 @@ class Quotes extends React.Component {
         if (event.keyCode === 32) {
           this.generateRandomQuote();
         }
+        else if (event.keyCode === 13) {
+            this.generateRandomQuote();
+          }
       };
 
     componentDidMount() {
@@ -56,7 +59,7 @@ class Quotes extends React.Component {
 
             <Content>
                 <center>
-                <img src={this.state.img} width="50%" alt="books"/>
+                <img src={this.state.img} onClick={this.generateRandomQuote} width="50%" alt="books"/>
                 </center>
             <QuoteAndAuthor
                 generateRandomQuote={this.generateRandomQuote}
