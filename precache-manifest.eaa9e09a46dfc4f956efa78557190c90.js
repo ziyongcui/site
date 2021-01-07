@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2488b617acb20e3524d4cfa9c097aedd",
+    "revision": "829df3bddd288c9427b81f8f189644be",
     "url": "/site/index.html"
   },
   {
-    "revision": "68449763a6adbdedfea4",
+    "revision": "3d06b65f37ca586591d4",
     "url": "/site/static/css/2.0f7943bd.chunk.css"
   },
   {
-    "revision": "8a08b168e425f4565eb6",
+    "revision": "b9b808bfddcac4c4c6f4",
     "url": "/site/static/css/main.eb296d45.chunk.css"
   },
   {
-    "revision": "68449763a6adbdedfea4",
-    "url": "/site/static/js/2.fbf6e380.chunk.js"
+    "revision": "3d06b65f37ca586591d4",
+    "url": "/site/static/js/2.1d19f7e8.chunk.js"
   },
   {
-    "revision": "8a08b168e425f4565eb6",
-    "url": "/site/static/js/main.6fbcc8c4.chunk.js"
+    "revision": "b9b808bfddcac4c4c6f4",
+    "url": "/site/static/js/main.0a28aca0.chunk.js"
   },
   {
     "revision": "14c83684653b1b55fe6d",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e05eea22148c1fde1f825ef49424655",
     "url": "/site/static/media/sunset1.7e05eea2.png"
+  },
+  {
+    "revision": "1e8156ee0fb09a031ee0b4d5827a7a7c",
+    "url": "/site/static/media/thecallofthewild.1e8156ee.jpg"
   },
   {
     "revision": "8d62d0d2653a92803d8a1a0d8f13d577",
