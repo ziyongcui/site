@@ -9,17 +9,27 @@ function AboutPage(props) {
             <Hero title={props.title} />
 
             <Content>
-            <p>Hello, my name is Ziyong. I'm a freshman at Harvard intending to concentrate in Mathematics and Computer Science.</p>
+            <p>
+                Hello, my name is Ziyong. I'm a rising sophmore at <a href="https://www.harvard.edu/" target="_blank" style={{color: "maroon"}}>Harvard</a> intending to concentrate in Mathematics and Statistics. 
+                I am currently interning at <a href="https://hazelcast.com/" target="_blank" style={{color: "darkblue"}}>Hazelcast</a>. My work involves integrating the Hazelcast Jet Platform with an autoencoder model to estimate component wear. You can check out my current progress here. 
+            </p>
 
-            <p>When I was younger, my dream was to become an astronaut. A few years later, I wanted to become a surgeon. At this moment, I'm not entirely sure what I want to do with my life. </p>
+            <p>
+            I enjoy thinking about problems involving probability, dynamic programming, and machine learning. Here is a collection of my favorite problems (and solutions).
+            </p>
 
-            <p>I want to learn more about the intersection between theoretical mathematics and computer science. In particular, I'm interested in the application of probabilistic models to machine learning and artificial intelligence and cryptography. </p>
+            <p>  
+                I have not taken many classes at Harvard so far but some of my favorites include
+                <ul>
+                    <li>Math55a and Math55b (Studies in Algebra and Group Theory + Studies in Real and Complex Analysis)</li>
+                    <li>Stat110 and Stat111 (Introduction to Probability + Introduction to Statistical Inference)</li>
+                    <li>CS124 (Introduction to Algorithms and Data Structures)</li>
+                </ul> 
+            </p>
 
-            <p>Currently, I'm working on a collection of tutorials for the FunKey Freedom and FunKey Sensor, an Arduino product for STEM, science, invention, physical computing and coding. You can check out my progress <a href="" target="_blank" rel="noopener noreferrer">here</a>.</p>
+            
 
-            <p>When I'm not doing math or coding, I enjoy running, cycling, reading, and playing Shengji or Poker. I am also an avid fan of FC Barcelona, the Boston Celtics, and the New England Patriots. </p>
-
-            <p>I have compiled a collection of my favorite quotes from books I have enjoyed <a href="/site/quote" target="_blank" rel="noopener noreferrer">here</a>.</p>
+            <p>I really enjoy reading. I have compiled a collection of my favorite quotes from books I have enjoyed <a href="/site/quote" target="_blank" rel="noopener noreferrer">here</a>.</p>
             </Content>
         </div>
     );

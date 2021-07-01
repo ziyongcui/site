@@ -5,6 +5,7 @@ import Card from '../components/Card';
 import sunset1 from '../assets/images/sunset1.png';
 import waterski from '../assets/images/waterski.png';
 import ziyong from '../assets/images/ziyong.jpg';
+import dobble from '../assets/images/dobble.svg';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
@@ -16,8 +17,8 @@ class Carousel extends React.Component {
             items: [
                 {
                     id: 0,
-                    title: 'Sunsets',
-                    subTitle: 'Some of my favorite sunsets',
+                    title: 'Blog',
+                    subTitle: 'My thoughts.',
                     imgSrc: sunset1,
                     link: '',
                     selected: false
@@ -25,16 +26,16 @@ class Carousel extends React.Component {
                 {
                     id: 1,
                     title: 'Ziyong',
-                    subTitle: 'Some of my projects',
+                    subTitle: 'Some of my projects.',
                     imgSrc: ziyong,
                     link: '',
                     selected: false
                 },
                 {
                     id: 2,
-                    title: 'Hobbies',
-                    subTitle: 'Some things I enjoy',
-                    imgSrc: waterski,
+                    title: 'Collection of Problems',
+                    subTitle: 'Some things I enjoy.',
+                    imgSrc: dobble,
                     link: '',
                     selected: false
                 },

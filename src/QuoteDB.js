@@ -17,7 +17,7 @@ import wherethecrawdadssing from './bookim/wherethecrawdadssing.jpg';
 import wethedrowned from './bookim/wethedrowned.jpg';
 import thecallofthewild from './bookim/thecallofthewild.jpg';
 
-import onwriting from './bookim/onwritingjpg';
+import onwriting from './bookim/onwriting.jpg';
 
 const quotes = [
     {
