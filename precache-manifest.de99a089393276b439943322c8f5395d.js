@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09e013165c52f55b64266202e9971535",
+    "revision": "afcf2995462bddecc24ea992906e1964",
     "url": "/site/index.html"
   },
   {
-    "revision": "aefb0ab88743b766ba33",
-    "url": "/site/static/css/2.fed529d4.chunk.css"
+    "revision": "5a13f33fa5a7e9d4959e",
+    "url": "/site/static/css/2.2792706f.chunk.css"
   },
   {
-    "revision": "c326131d932f2d90caa2",
-    "url": "/site/static/css/main.a1b7b015.chunk.css"
+    "revision": "cc7aaad1a968b12f2cc6",
+    "url": "/site/static/css/main.f04da353.chunk.css"
   },
   {
-    "revision": "aefb0ab88743b766ba33",
-    "url": "/site/static/js/2.3a07bda5.chunk.js"
+    "revision": "5a13f33fa5a7e9d4959e",
+    "url": "/site/static/js/2.dcd6d7fd.chunk.js"
   },
   {
-    "revision": "c326131d932f2d90caa2",
-    "url": "/site/static/js/main.f9d9d99b.chunk.js"
+    "revision": "cc7aaad1a968b12f2cc6",
+    "url": "/site/static/js/main.1312a9ed.chunk.js"
   },
   {
     "revision": "14c83684653b1b55fe6d",
     "url": "/site/static/js/runtime~main.de27f395.js"
+  },
+  {
+    "revision": "33a6973517a952ff46da2694f2addb58",
+    "url": "/site/static/media/Dobble.33a69735.pdf"
+  },
+  {
+    "revision": "76cdc1ff769e8fd8469aca0aa67fac1b",
+    "url": "/site/static/media/Gamblers_Ruin.76cdc1ff.pdf"
   },
   {
     "revision": "b6d424097609e89b0f3eebf275f3a865",
