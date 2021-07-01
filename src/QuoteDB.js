@@ -17,6 +17,8 @@ import wherethecrawdadssing from './bookim/wherethecrawdadssing.jpg';
 import wethedrowned from './bookim/wethedrowned.jpg';
 import thecallofthewild from './bookim/thecallofthewild.jpg';
 
+import onwriting from './bookim/onwritingjpg';
+
 const quotes = [
     {
         "quote": "There is some good in this world, and it’s worth fighting for.",
@@ -117,6 +119,11 @@ const quotes = [
         "quote": "There is an ecstasy that marks the summit of life, and beyond which life cannot rise. And such is the paradox of living, this ecstasy comes when one is most alive, and it comes as a complete forgetfulness that one is alive.",
         "author": "Jack London, The Call of the Wild",
         "img": thecallofthewild
+    },
+    {
+        "quote": "It starts with this: put your desk in the corner, and every time you sit down there to write, remind yourself why it isn't in the middle of the room. Life isn't a support-system for art. It's the other way around.",
+        "author": "Stephen King, On Writing: A Memoir of the Craft",
+        "img": onwriting
     }
 ]
 
