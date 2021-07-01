@@ -15,7 +15,7 @@ function AboutPage(props) {
             </p>
 
             <p>
-            I enjoy thinking about problems involving probability, dynamic programming, and machine learning. Here is a collection of my favorite problems (and solutions).
+            I enjoy thinking about problems involving probability, dynamic programming, and machine learning. <a href="/site/problems" rel="noopener noreferrer">Here</a> is a collection of my favorite problems (and solutions).
             </p>
 
             <p>  
@@ -27,9 +27,17 @@ function AboutPage(props) {
                 </ul> 
             </p>
 
-            
+            <p>
+                I spend a lot of time thinking about random things. Occasionally, I decided to write down my thoughts in my "blog" which can be found here.
+            </p>
 
-            <p>I really enjoy reading. I have compiled a collection of my favorite quotes from books I have enjoyed <a href="/site/quote" target="_blank" rel="noopener noreferrer">here</a>.</p>
+            <p>
+                I really enjoy reading. I have compiled a collection of my favorite quotes from books I have enjoyed <a href="/site/quote" rel="noopener noreferrer">here</a>.
+            </p>
+
+            <p>
+                If for whatever reason you would like to reach out to chat, please do so here. I look forward to meeting you!
+            </p>
             </Content>
         </div>
     );

@@ -36,7 +36,7 @@ class Carousel extends React.Component {
                     title: 'Collection of Problems',
                     subTitle: 'Some things I enjoy.',
                     imgSrc: dobble,
-                    link: '',
+                    link: '/site/problems',
                     selected: false
                 },
             ]

@@ -10,6 +10,7 @@ import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactForm';
 import Quotes from './linked/Quotes';
+import Problems from './linked/Problems';
 
 
 class App extends React.Component {
@@ -59,6 +60,7 @@ class App extends React.Component {
           <Route path="/site/about" render={() => <AboutPage title={this.state.about.title} />} />
           <Route path="/site/contact" render={() => <ContactPage title={this.state.contact.title} />} />
           <Route path="/site/quote" render={() => <Quotes/>} />
+          <Route path="/site/problems" render={() => <Problems/>} />
           <Footer />
 
         </Container>
