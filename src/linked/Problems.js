@@ -4,6 +4,7 @@ import Hero from '../components/Hero';
 import Content from '../components/Content';
 import Gamblers_Ruin from "../assets/problems/Gamblers_Ruin.pdf";
 import Dobble from "../assets/problems/Dobble.pdf";
+import Basketball from "../assets/problems/Basketball.pdf";
 
 
 function Table({ columns, data }) {
@@ -155,6 +156,11 @@ function Problems() {
         firstcolumn: <a href={Gamblers_Ruin} download>Gambler's Ruin Problem</a>,
         secondcolumn: "Conditional Probability",
         thirdcolumn: "07/01/2021"
+      },
+      {
+        firstcolumn: <a href={Basketball} download>Basketball Problem</a>,
+        secondcolumn: "Combinatorics, Counting",
+        thirdcolumn: "07/02/2021"
       }
     ],
     []
