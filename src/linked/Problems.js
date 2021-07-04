@@ -5,6 +5,7 @@ import Content from '../components/Content';
 import Gamblers_Ruin from "../assets/problems/Gamblers_Ruin.pdf";
 import Dobble from "../assets/problems/Dobble.pdf";
 import Basketball from "../assets/problems/Basketball.pdf";
+import Ngon from "../assets/problems/N-Gon.pdf";
 
 
 function Table({ columns, data }) {
@@ -161,6 +162,11 @@ function Problems() {
         firstcolumn: <a href={Basketball} download>Basketball Problem</a>,
         secondcolumn: "Combinatorics, Counting",
         thirdcolumn: "07/02/2021"
+      },
+      {
+        firstcolumn: <a href={Ngon} download>N-Gon Problem</a>,
+        secondcolumn: "Combinatorics, Counting",
+        thirdcolumn: "07/03/2021"
       }
     ],
     []
