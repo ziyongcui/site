@@ -19,6 +19,10 @@ import thecallofthewild from './bookim/thecallofthewild.jpg';
 
 import onwriting from './bookim/onwriting.jpg';
 
+import travelswithcharlie from "./bookim/travelswithcharlie.jpeg";
+import oathbringer from "./bookim/oathbringer.jpeg"
+import thewayofkings from "./bookim/thewayofkings.jpeg";
+
 const quotes = [
     {
         "quote": "There is some good in this world, and it’s worth fighting for.",
@@ -124,6 +128,41 @@ const quotes = [
         "quote": "It starts with this: put your desk in the corner, and every time you sit down there to write, remind yourself why it isn't in the middle of the room. Life isn't a support-system for art. It's the other way around.",
         "author": "Stephen King, On Writing: A Memoir of the Craft",
         "img": onwriting
+    },
+    {
+        "quote": "When a child first catches adults out - when it first walks into his grave little head that adults do not always have divine intelligence, that their judgements are not always wise, their thinking true, their sentences just - his world falls into panic desolation. The gods are fallen and all safety gone. And there is one sure thing about the fall of gods: they do not fall a little; they crash and shatter or sink deeply into green muck. It is a tedious job to build them up again; they never quite shine. And the child's world is never quite whole again. It is an aching kind of growing.",
+        "author": "John Steinbeck, East of Eden",
+        "img": eastofeden
+    },
+    {
+        "quote": "She swallowed hard, shed some tears. Then she gathered energy from all over her ruined body, even from her toes and fingertips. At last she had accumulated enough strength to whisper this complete sentence: \"How did I get so  old? \" ",
+        "author": "Kurt Vonnegut, Slaughterhouse-Five",
+        "img": slaughterhousefive
+    },
+    {
+        "quote": "We said goodbye to our mothers. They'd been around all our lives, but we'd never properly seen them. They'd been bent over washing tubs or cooking pots, their faces red and swollen from heat and steam, holding everything together while our fathers were away at sea, and nodding off every night on the kitchen chair, with a darning needle in hand. It was their endurance and exhaustion we knew, rather than them. And we never asked them for anything because we didn't want to bother them. That was how we showed our love: with silence. Their eyes were always red. In the morning, when they woke us up, it was from stove smoke. And in the evening, when they said good night to us, still dressed, it was from exhaustion. And sometimes it was from crying over someone who would never come home again. Ask us about the color of a mother's eyes, and we'd reply, \They're not brown. They aren't green. They're neither blue nor gray. They're red.\" That's what we'd say. And now they've come down alongside the wharf to say goodbye. But between us, there's silence. Their eyes pierce us. \" Come back,\" their stare pleads. \"Don't leave us.\" But we won't be coming back. We want out. We want to get away. Our mother sticks a knife in our heart when we say goodbye on the wharf. And we stick a knife in hers when we go. And that's how we're connected: through the hurt we inflict on one another.",
+        "author": "Carsten Jensen, We, the Drowned",
+        "img": wethedrowned
+    },
+    {
+        "quote": "What good is the warmth of summer, without the cold of winter to give its sweetness.",
+        "author": "John Steinbeck, Travels with Charlie: In Search of America",
+        "img": travelswithcharlie
+    },
+    {
+        "quote": "Failure is the mark of a life well lived. In turn, the only way to live without failure is to be of no use to anyone. Trust me, I've practiced.",
+        "author": "Brandon Sanderson, Oathbringer",
+        "img": oathbringer
+    },
+    {
+        "quote": "Sometimes a hypocrite is nothing more than a man in the process of changing.",
+        "author": "Brandon Sanderson, Oathbringer",
+        "img": oathbringer
+    },
+    {
+        "quote": "We follow the codes not because they bring gain, but because we loathe the people we would become otherwise.",
+        "author": "Brandon Sanderson, The Way of Kings",
+        "img": thewayofkings
     }
 ]
 

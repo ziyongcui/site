@@ -1,7 +1,7 @@
 # README
 
 ## TODO
-- Consoldite projects
+- Consolidate projects
 - Begin blog
 
 ## Reminders
