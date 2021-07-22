@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3527dd5c6be188cc912e24f4bae97174",
+    "revision": "437ab74a6256fd7807d8845566ddf217",
     "url": "/site/index.html"
   },
   {
-    "revision": "0b3a45f8d4579690005c",
-    "url": "/site/static/css/2.2792706f.chunk.css"
+    "revision": "7744773202debed2295e",
+    "url": "/site/static/css/2.4a9b3527.chunk.css"
   },
   {
-    "revision": "bfd37dc105ec2b16b668",
-    "url": "/site/static/css/main.190f2946.chunk.css"
+    "revision": "1aadda177b517c7a12e8",
+    "url": "/site/static/css/main.f04da353.chunk.css"
   },
   {
-    "revision": "0b3a45f8d4579690005c",
-    "url": "/site/static/js/2.c3ea24e2.chunk.js"
+    "revision": "7744773202debed2295e",
+    "url": "/site/static/js/2.38b530d6.chunk.js"
   },
   {
-    "revision": "bfd37dc105ec2b16b668",
-    "url": "/site/static/js/main.1d0659eb.chunk.js"
+    "revision": "1aadda177b517c7a12e8",
+    "url": "/site/static/js/main.bcfbfc76.chunk.js"
   },
   {
     "revision": "14c83684653b1b55fe6d",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fa462c1030b830e380f7347c015168cf",
     "url": "/site/static/media/Basketball.fa462c10.pdf"
+  },
+  {
+    "revision": "f46727d42100fead5afbedc180cf00f2",
+    "url": "/site/static/media/CoinProblems.f46727d4.pdf"
+  },
+  {
+    "revision": "7087bf46420b48b5f686cc23752acb4c",
+    "url": "/site/static/media/Divisibility.7087bf46.pdf"
   },
   {
     "revision": "33a6973517a952ff46da2694f2addb58",
@@ -38,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b72d2b235ee33108a004386501171d5b",
     "url": "/site/static/media/N-Gon.b72d2b23.pdf"
+  },
+  {
+    "revision": "1ada9cd8c6e9efc7d5db3ab4180c3729",
+    "url": "/site/static/media/ShortBrainTeasers.1ada9cd8.pdf"
   },
   {
     "revision": "b6d424097609e89b0f3eebf275f3a865",
@@ -84,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site/static/media/lookingforalaska.62bc5289.jpg"
   },
   {
+    "revision": "bb4a6bb2e6b3e9dff3d8c70c14266345",
+    "url": "/site/static/media/oathbringer.bb4a6bb2.jpeg"
+  },
+  {
     "revision": "fdd02a830e3ce10a4a5a836b089939b3",
     "url": "/site/static/media/onwriting.fdd02a83.jpg"
   },
@@ -112,8 +128,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site/static/media/thetwotowers.7a0ebbe5.jpg"
   },
   {
+    "revision": "664c653b09542f549db82c866542ef67",
+    "url": "/site/static/media/thewayofkings.664c653b.jpeg"
+  },
+  {
     "revision": "62659e6ecf9d4b357e1b101f02f28585",
     "url": "/site/static/media/tokillamockingbird.62659e6e.jpg"
+  },
+  {
+    "revision": "3bdeea81b90056fcbe5fa41ee26c7afc",
+    "url": "/site/static/media/travelswithcharlie.3bdeea81.jpeg"
   },
   {
     "revision": "379114c9e7435fdd2f2eba15caa5c1ae",
