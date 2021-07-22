@@ -6,6 +6,9 @@ import Gamblers_Ruin from "../assets/problems/Gamblers_Ruin.pdf";
 import Dobble from "../assets/problems/Dobble.pdf";
 import Basketball from "../assets/problems/Basketball.pdf";
 import Ngon from "../assets/problems/N-Gon.pdf";
+import Divisibility from "../assets/problems/Divisibility.pdf";
+import ShortBrainTeasers from "../assets/problems/ShortBrainTeasers.pdf";
+import CoinProblems from "../assets/problems/CoinProblems.pdf";
 
 
 function Table({ columns, data }) {
@@ -133,12 +136,22 @@ function Problems() {
         ]
       },
       {
-        Header: "Date Added",
+        Header: "Difficulty",
         Footer: "",
         columns: [
         {
             Header: "",
             accessor: "thirdcolumn"
+        }
+        ]
+      },
+      {
+        Header: "Date Added",
+        Footer: "",
+        columns: [
+        {
+            Header: "",
+            accessor: "fourthcolumn"
         }
         ]
       }
@@ -151,22 +164,44 @@ function Problems() {
       {
         firstcolumn: <a href={Dobble} download>Dobble/Spot It Problem</a>,
         secondcolumn: "Linear Algebra, Combinatorics",
-        thirdcolumn: "07/01/2021"
+        thirdcolumn: "\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 5.0",
+        fourthcolumn: "07/01/2021"
       },
       {
         firstcolumn: <a href={Gamblers_Ruin} download>Gambler's Ruin Problem</a>,
         secondcolumn: "Conditional Probability",
-        thirdcolumn: "07/01/2021"
+        thirdcolumn: "\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 3.5",
+        fourthcolumn: "07/01/2021"
       },
       {
         firstcolumn: <a href={Basketball} download>Basketball Problem</a>,
         secondcolumn: "Combinatorics, Counting",
-        thirdcolumn: "07/02/2021"
+        thirdcolumn: "\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2.0",
+        fourthcolumn: "07/02/2021"
       },
       {
         firstcolumn: <a href={Ngon} download>N-Gon Problem</a>,
         secondcolumn: "Combinatorics, Counting",
-        thirdcolumn: "07/03/2021"
+        thirdcolumn: "\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 4.5",
+        fourthcolumn: "07/03/2021"
+      },
+      {
+        firstcolumn: <a href={Divisibility} download>Divisbility Problem</a>,
+        secondcolumn: "Number Theory",
+        thirdcolumn: "\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 1.0",
+        fourthcolumn: "07/22/2021"
+      },
+      {
+        firstcolumn: <a href={ShortBrainTeasers} download>Short Brain Teasers</a>,
+        secondcolumn: "Brainteasers, Distributions",
+        thirdcolumn: "\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 3.5",
+        fourthcolumn: "07/22/2021"
+      },
+      {
+        firstcolumn: <a href={CoinProblems} download>Coin Problems</a>,
+        secondcolumn: "Combinatorics, Probability",
+        thirdcolumn: "\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 3.5",
+        fourthcolumn: "07/22/2021"
       }
     ],
     []
