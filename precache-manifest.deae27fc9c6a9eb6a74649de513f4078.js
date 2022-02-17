@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "391577fac3bb59fefbd1cd32bf862f20",
+    "revision": "0ca5ef3473aec69248c29eb19222d4a6",
     "url": "/site/index.html"
   },
   {
-    "revision": "a1a163b332fcd2f78a71",
+    "revision": "b0404fd652acc8f6af58",
     "url": "/site/static/css/2.4a9b3527.chunk.css"
   },
   {
-    "revision": "61e22fe09d48ff87ec50",
+    "revision": "79aba3560a4e54d18bb8",
     "url": "/site/static/css/main.f04da353.chunk.css"
   },
   {
-    "revision": "a1a163b332fcd2f78a71",
-    "url": "/site/static/js/2.7516519d.chunk.js"
+    "revision": "b0404fd652acc8f6af58",
+    "url": "/site/static/js/2.d4162677.chunk.js"
   },
   {
-    "revision": "61e22fe09d48ff87ec50",
-    "url": "/site/static/js/main.9c6b7e68.chunk.js"
+    "revision": "79aba3560a4e54d18bb8",
+    "url": "/site/static/js/main.0cd3420f.chunk.js"
   },
   {
     "revision": "14c83684653b1b55fe6d",
@@ -48,12 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site/static/media/Gamblers_Ruin.76cdc1ff.pdf"
   },
   {
+    "revision": "6d24fdf7c8fcf8a9b71b088da87ee5b8",
+    "url": "/site/static/media/MyAntonia.6d24fdf7.jpeg"
+  },
+  {
     "revision": "b72d2b235ee33108a004386501171d5b",
     "url": "/site/static/media/N-Gon.b72d2b23.pdf"
   },
   {
     "revision": "1ada9cd8c6e9efc7d5db3ab4180c3729",
     "url": "/site/static/media/ShortBrainTeasers.1ada9cd8.pdf"
+  },
+  {
+    "revision": "68fafd44767e21485470b4de5cbb5dee",
+    "url": "/site/static/media/TheAgeOfInnocence.68fafd44.jpeg"
   },
   {
     "revision": "b6d424097609e89b0f3eebf275f3a865",
