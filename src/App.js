@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactForm';
+import Blog from './pages/Blog';
 import Quotes from './linked/Quotes';
 import Problems from './linked/Problems';
 
@@ -22,7 +23,8 @@ class App extends React.Component {
       headerLinks: [
         { title: 'Home', path: '/site' },
         { title: 'About', path: '/site/about' },
-        { title: 'Contact', path: '/site/contact' }
+        { title: 'Contact', path: '/site/contact' },
+        { title: 'Blog', path: '/site/blog'}
       ],
       home: {
         title: 'Hello.',
@@ -34,6 +36,9 @@ class App extends React.Component {
       },
       contact: {
         title: 'Let\'s Talk'
+      },
+      blog: {
+        title: 'Blog'
       }
     }
   }
@@ -52,6 +57,7 @@ class App extends React.Component {
                 <Link className="nav-link" to="/site">Home</Link>
                 <Link className="nav-link" to="/site/about">About</Link>
                 <Link className="nav-link" to="/site/contact">Contact</Link>
+                <Link className="nav-link" to="/site/blog">Blog</Link>
               </Nav>
             </Navbar.Collapse>
           </Navbar>
@@ -61,6 +67,7 @@ class App extends React.Component {
           <Route path="/site/contact" render={() => <ContactPage title={this.state.contact.title} />} />
           <Route path="/site/quote" render={() => <Quotes/>} />
           <Route path="/site/problems" render={() => <Problems/>} />
+          <Route path="/site/blog" render={() => <Blog title={this.state.blog.title}/>} />
           <Footer />
 
         </Container>

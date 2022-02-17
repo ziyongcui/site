@@ -10,19 +10,20 @@ function AboutPage(props) {
 
             <Content>
             <p>
-                Hello, my name is Ziyong. I'm a rising sophmore at <a href="https://www.harvard.edu/" target="_blank" style={{color: "maroon"}}>Harvard</a> intending to concentrate in Mathematics and Statistics. 
-                I am currently interning at <a href="https://hazelcast.com/" target="_blank" style={{color: "darkblue"}}>Hazelcast</a>. My work involves integrating the Hazelcast Jet Platform with an autoencoder model to estimate component wear. You can check out my current progress here. 
+                Hello, my name is Ziyong. I'm a sophmore at <a href="https://www.harvard.edu/" target="_blank" style={{color: "maroon"}}>Harvard</a> intending to concentrate in Mathematics and Statistics. 
+                I will be interning at <a href="weissasset.com/" target="_blank" style={{color: "darkblue"}}> Weiss Asset Management </a> this summer . 
+                Last summer, I worked at <a href="https://hazelcast.com/" target="_blank" style={{color: "darkblue"}}>Hazelcast</a> where I created a machine learning model to estimate component degredation.
             </p>
 
             <p>
-            I enjoy thinking about problems involving probability, dynamic programming, and machine learning. <a href="/site/problems" rel="noopener noreferrer">Here</a> is a collection of my favorite problems (and solutions).
+            I enjoy puzzles. <a href="/site/problems" rel="noopener noreferrer">Here</a> is a collection of my favorite problems (and solutions).
             </p>
 
             <p>  
-                I have not taken many classes at Harvard so far but some of my favorites include
+                I have a sizable amount of classes at Harvard so far and have helped teach a few which include
                 <ul>
-                    <li>Math55a and Math55b (Studies in Algebra and Group Theory + Studies in Real and Complex Analysis)</li>
-                    <li>Stat110 and Stat111 (Introduction to Probability + Introduction to Statistical Inference)</li>
+                    <li>Stat110 (Introduction to Probability)</li>
+                    <li>Stat111 (Introduction to Statistical Inference)</li>
                     <li>CS124 (Introduction to Algorithms and Data Structures)</li>
                 </ul> 
             </p>

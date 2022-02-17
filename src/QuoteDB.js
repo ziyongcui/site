@@ -23,6 +23,9 @@ import travelswithcharlie from "./bookim/travelswithcharlie.jpeg";
 import oathbringer from "./bookim/oathbringer.jpeg"
 import thewayofkings from "./bookim/thewayofkings.jpeg";
 
+import myantonia from "./bookim/MyAntonia.jpeg";
+import ageofinnocence from "./bookim/TheAgeOfInnocence.jpeg";
+
 const quotes = [
     {
         "quote": "There is some good in this world, and it’s worth fighting for.",
@@ -163,6 +166,21 @@ const quotes = [
         "quote": "We follow the codes not because they bring gain, but because we loathe the people we would become otherwise.",
         "author": "Brandon Sanderson, The Way of Kings",
         "img": thewayofkings
+    },
+    {
+        "quote": "Whenever I saw her come up the furrow, shouting to her beasts, sunburned, sweaty, her dress open at the neck, and her throat and chest dust-plastered, I used to think of the tone in which poor Mr. Shimerda, who could say so little, yet managed to say so much when he exclaimed, ‘My Àn-tonia!’",
+        "author": "Willa Cather, My Antonia",
+        "img": myantonia
+    },
+    {
+        "quote": "There was only - spring itself; the throb of it, the light restlessness, the vital essence of it everywhere; in the sky, in the swift clouds, in the pale sunshine, and in the warm, high wind - rising suddenly, sinking suddenly, impulsive and playful like a big puppy that pawed you and then lay down to be petted. If I had been tossed down blindfold on that red prairie, I should have known that it was spring.",
+        "author": "Willa Cather, My Antonia",
+        "img": myantonia
+    },
+    {
+        "quote": "'We can't behave like people in novels, though, can we?'",
+        "author": "Edith Wharton, The Age of Innocence",
+        "img": ageofinnocence
     }
 ]
 
