@@ -13,3 +13,8 @@ Deploy using
 ```
 npm run deploy
 ```
+
+For new computers, you might need to run the following code to install the necessary packages
+```
+npm install
+```
