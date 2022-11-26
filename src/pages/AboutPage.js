@@ -10,9 +10,9 @@ function AboutPage(props) {
 
             <Content>
             <p>
-                Hello, my name is Ziyong. I'm a sophmore at <a href="https://www.harvard.edu/" target="_blank" style={{color: "maroon"}}>Harvard</a> intending to concentrate in Mathematics and Statistics. 
-                I will be interning at <a href="weissasset.com/" target="_blank" style={{color: "darkblue"}}> Weiss Asset Management </a> this summer . 
-                Last summer, I worked at <a href="https://hazelcast.com/" target="_blank" style={{color: "darkblue"}}>Hazelcast</a> where I created a machine learning model to estimate component degredation.
+                Hello, my name is Ziyong. I'm a junior at <a href="https://www.harvard.edu/" target="_blank" style={{color: "maroon"}}>Harvard</a> intending to concentrate in ???. 
+                I will be working at a trading firm this summer. This past summer. I interned at <a href="weissasset.com/" target="_blank" style={{color: "darkblue"}}> Weiss Asset Management </a>  
+                where I thought a lot about ETFs and energy. The summer before, I interned at <a href="https://hazelcast.com/" target="_blank" style={{color: "darkblue"}}>Hazelcast</a>  where I created a machine learning model to estimate component degredation.
             </p>
 
             <p>
@@ -25,11 +25,12 @@ function AboutPage(props) {
                     <li>Stat110 (Introduction to Probability)</li>
                     <li>Stat111 (Introduction to Statistical Inference)</li>
                     <li>CS124 (Introduction to Algorithms and Data Structures)</li>
+                    <li>Stat210 (Graduate Probability)</li>
                 </ul> 
             </p>
 
             <p>
-                I spend a lot of time thinking about random things. Occasionally, I decided to write down my thoughts in my "blog" which can be found here.
+                I spend a lot of time thinking about random things. Occasionally, I decided to write down my thoughts in my "blog" which can be found <a href="/site/blog" rel="noopener noreferrer">here</a>.
             </p>
 
             <p>
@@ -37,7 +38,7 @@ function AboutPage(props) {
             </p>
 
             <p>
-                If for whatever reason you would like to reach out to chat, please do so here. I look forward to meeting you!
+                If for whatever reason you would like to reach out to chat, please do so <a href="/site/contact" rel="noopener noreferrer">here</a>. I look forward to meeting you!
             </p>
             </Content>
         </div>
