@@ -16,15 +16,11 @@ function Footer() {
                         Ziyong Cui
                     </Col>
                     <Col className="p-0 d-flex justify-content-end" md={3}>
-                        <a href="https://www.linkedin.com/in/ziyong-cui-3b799229/">
-                            <img src={linkedin} width='30' height='30' />
-                        </a>
+                       
                         <a href="https://github.com/ziyongcui/">
                             <img src={github} width='30' height='30' />
                         </a>
-                        <a href="https://www.goodreads.com/">
-                            <img src={goodreads} width='30' height='30' />
-                        </a>
+                       
                     </Col>
                 </Row>
             </Container>
