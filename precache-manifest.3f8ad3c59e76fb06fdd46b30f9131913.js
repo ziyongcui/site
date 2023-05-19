@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8282d7f3da9105fd9d6f08fd73f1557f",
+    "revision": "5b50ec2a078dab7f3d151f660c84e09b",
     "url": "/site/index.html"
   },
   {
-    "revision": "e7c4d2b2bca98ea9edd0",
+    "revision": "0ae319cfef13e0e72e0f",
     "url": "/site/static/css/2.2792706f.chunk.css"
   },
   {
-    "revision": "1bbcfdbd2c4d6059132f",
+    "revision": "7bb9a0fbc14f9b1d24bb",
     "url": "/site/static/css/main.e1794819.chunk.css"
   },
   {
-    "revision": "e7c4d2b2bca98ea9edd0",
-    "url": "/site/static/js/2.80a7e3b5.chunk.js"
+    "revision": "0ae319cfef13e0e72e0f",
+    "url": "/site/static/js/2.80524a10.chunk.js"
   },
   {
-    "revision": "1bbcfdbd2c4d6059132f",
-    "url": "/site/static/js/main.d6036dcc.chunk.js"
+    "revision": "7bb9a0fbc14f9b1d24bb",
+    "url": "/site/static/js/main.63b6736e.chunk.js"
   },
   {
     "revision": "14c83684653b1b55fe6d",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da997a21368a4186b3617ce92615fcbd",
     "url": "/site/static/media/ataleoftwocities.da997a21.jpeg"
+  },
+  {
+    "revision": "2fcf1386be5cdd6ce17d4f2bbcf70759",
+    "url": "/site/static/media/beartown3.2fcf1386.jpeg"
   },
   {
     "revision": "a42d881fde108b38031fb5ed1406fad8",
