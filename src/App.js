@@ -11,7 +11,10 @@ import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactForm';
 import Blog from './pages/Blog';
 import Quotes from './linked/Quotes';
+import Recipes from './linked/Recipes';
 import Problems from './linked/Problems';
+import Journal from './linked/Journal';
+import Travel from './linked/Travel';
 
 
 class App extends React.Component {
@@ -39,6 +42,9 @@ class App extends React.Component {
       },
       blog: {
         title: 'Blog'
+      },
+      travel : {
+        title: "Travels"
       }
     }
   }
@@ -66,6 +72,9 @@ class App extends React.Component {
           <Route path="/site/about" render={() => <AboutPage title={this.state.about.title} />} />
           <Route path="/site/contact" render={() => <ContactPage title={this.state.contact.title} />} />
           <Route path="/site/quote" render={() => <Quotes/>} />
+          <Route path="/site/recipe" render={() => <Recipes/>} />
+          <Route path="/site/jjj" render={() => <Journal/>} />
+          <Route path="/site/travel" render={() => <Travel title = {this.state.travel.title} />} />
           <Route path="/site/problems" render={() => <Problems/>} />
           <Route path="/site/blog" render={() => <Blog title={this.state.blog.title}/>} />
           <Footer />

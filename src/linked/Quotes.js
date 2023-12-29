@@ -59,7 +59,7 @@ class Quotes extends React.Component {
 
             <Content>
                 <center>
-                <img src={this.state.img} onClick={this.generateRandomQuote} width="50%" alt="books"/>
+                <img src={this.state.img} onClick={this.generateRandomQuote} width="40%" alt="books"/>
                 </center>
             <QuoteAndAuthor
                 generateRandomQuote={this.generateRandomQuote}

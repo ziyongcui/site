@@ -11,7 +11,7 @@ function Blog(props) {
             <Hero title={props.title} />
             <Content>
             
-                <p>
+                {/* <p>
                     <h1>Nov. 26 2022, 1:15 AM</h1>
                     I miss quarantine. 
 
@@ -38,7 +38,7 @@ function Blog(props) {
                     were frequent places to hangout. We celebrated many birthdays that summer and took
                     a spontaneous trip to Manchester by the Sea. Then it all ended.
                      
-                </p>
+                </p> */}
             
             
             </Content>

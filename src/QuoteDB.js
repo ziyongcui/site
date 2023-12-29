@@ -26,6 +26,9 @@ import thewayofkings from "./bookim/thewayofkings.jpeg";
 import myantonia from "./bookim/MyAntonia.jpeg";
 import ageofinnocence from "./bookim/TheAgeOfInnocence.jpeg";
 
+import beartown3 from "./bookim/beartown3.jpeg";
+
+
 const quotes = [
     {
         "quote": "There is some good in this world, and it’s worth fighting for.",
@@ -181,6 +184,18 @@ const quotes = [
         "quote": "'We can't behave like people in novels, though, can we?'",
         "author": "Edith Wharton, The Age of Innocence",
         "img": ageofinnocence
+    },
+    {
+        "quote": "Men are busy, but boys don't stop growing. Sons want their fathers' attention until the precise moment when fathers want their sons'. From then on we're all doomed to wish that we'd fallen asleep beside them more often, while their head could still fit on our chest. That we'd spend more time sitting on the floor while they were still playing. Hugged them while they still let us.",
+        "author" : "Fredrik Backman, The Winners",
+        "img": beartown3
+
+    },
+    {
+        "quote": "I don't believe in violence, Leo, because my dad used to hit me if I so much as spilled a bit of milk. That didn't teach me not to spill milk, it just made me afraid of milk.",
+        "author" : "Fredrik Backman, The Winners",
+        "img": beartown3
+
     }
 ]
 
